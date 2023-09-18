@@ -3,10 +3,10 @@
 
 # We make it so easy to create app 
 ## i-app  CLI  
-### The i-app CLI (Command Line Interface) is a powerful tool designed to streamline the application development process for developers. It simplifies the setup and configuration of i-app projects by creating a comprehensive copy of the necessary files and folders required for any project utilizing the i-app framework. This automation significantly reduces the initial setup time and effort, allowing developers to focus more on the actual development of their web applications. By providing a standardized and organized project structure, the i-app CLI empowers developers to quickly start building front-end and back-end applications with ease, ultimately enhancing productivity and efficiency in the development process. 
+ The i-app CLI (Command Line Interface) is a powerful tool designed to streamline the application development process for developers. It simplifies the setup and configuration of i-app projects by creating a comprehensive copy of the necessary files and folders required for any project utilizing the i-app framework. This automation significantly reduces the initial setup time and effort, allowing developers to focus more on the actual development of their web applications. By providing a standardized and organized project structure, the i-app CLI empowers developers to quickly start building front-end and back-end applications with ease, ultimately enhancing productivity and efficiency in the development process. 
 
 # i-app is a full-stack language 
-## designed to simplify the development of web applications. It is built with pure JavaScript and can be easily integrated into your project. i-app supports multiple technologies, including JavaScript, Node.js, PHP, and Python.
+designed to simplify the development of web applications. It is built with pure JavaScript and can be easily integrated into your project. i-app supports multiple technologies, including JavaScript, Node.js, PHP, and Python.
 
 [![Discord Chat](https://img.shields.io/badge/chat-discord-blue.svg)](https://discord.gg/N5Z7Z8NF)
 
