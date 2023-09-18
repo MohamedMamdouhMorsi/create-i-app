@@ -1,0 +1,22 @@
+{
+  "name": "create-i-app",
+  "version": "1.0.0",
+  "description": "i-app CLI",
+  "main": "i-app.js",
+  "scripts": {
+    "test": "i-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedMamdouhMorsi/create-i-app.git"
+  },
+  "keywords": [
+    "i-app"
+  ],
+  "author": "Mohamed Mamdouh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohamedMamdouhMorsi/create-i-app/issues"
+  },
+  "homepage": "https://github.com/MohamedMamdouhMorsi/create-i-app#readme"
+}
