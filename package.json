@@ -1,8 +1,8 @@
 {
   "name": "create-i-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "i-app CLI",
-  "main": "i-app.js",
+  "main": "create-i-app.js",
   "bin": "create-i-app",
   "scripts": {
     "test": "create-i-app"
