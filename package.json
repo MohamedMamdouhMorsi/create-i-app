@@ -2,9 +2,9 @@
   "name": "create-i-app",
   "version": "1.0.0",
   "description": "i-app CLI",
-  "main": "i-app.js",
+  "main": "create-i-app.js",
   "scripts": {
-    "test": "i-app"
+    "test": "create-i-app"
   },
   "repository": {
     "type": "git",
