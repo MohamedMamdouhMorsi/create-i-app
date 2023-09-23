@@ -1,11 +1,13 @@
 {
   "name": "create-i-app",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "i-app CLI",
   "main": "create-i-app.js",
-  "bin": "create-i-app",
+  "bin": {
+    "create-i-app": "./bin/cli.js"
+  },
   "scripts": {
-    "test": "create-i-app"
+    "start": "i-app.js"
   },
   "repository": {
     "type": "git",
