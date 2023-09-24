@@ -1,5 +1,5 @@
 # create-i-app-dev
-package help to c
+## i-app CLI Contribute Mode To link Your branch
 ---
 ## Read More ... https://i-app.org
 
