@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const { exec } = require('child_process');
-exec('npm ls -g @i-app/i-app --json', (error, stdout, stderr) => {
+exec('npm ls i-app-create --json', (error, stdout, stderr) => {
   if (error) {
     console.error(`Error checking the installed version: ${error}`);
     return;
