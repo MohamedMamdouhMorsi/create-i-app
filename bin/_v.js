@@ -7,7 +7,7 @@ exec('npm ls i-app-create --json', (error, stdout, stderr) => {
   }
   try {
     const installedPackages = JSON.parse(stdout);
-    const iAppVersion = installedPackages.dependencies['@i-app/i-app'].version;
+    const iAppVersion = installedPackages.dependencies['i-app-create'].version;
     console.log(`i-app version : ${iAppVersion}`);
  
   } catch (parseError) {

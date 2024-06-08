@@ -1,11 +1,11 @@
 {
   "name": "create-i-app",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "i-app CLI Contribute Mode To link Your branch",
   "main": "create-i-app.js",
   "bin": {
     "create-i-app": "./bin/cli.js",
-    "i-app-v":"./bin/v.js"
+    "create-i-app-v":"./bin/_v.js"
   },
   "scripts": {
     "start": "i-app.js"
